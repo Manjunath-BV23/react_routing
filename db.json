@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "name": "Essential Phone",
+      "price": "23,990",
+      "poster": "https://drop.ndtv.com/TECH/product_database/images/530201750842PM_635_essential_phone.jpeg?downsize=*:180",
+      "id": 0,
+      "specifications": {
+        "Brand": "Essential",
+        "Model": "Phone",
+        "ReleaseDate": "May 2017",
+        "FormFactor": "Touchscreen",
+        "Dimensions": "141.50 x 71.10 x 7.80",
+        "Weight": "185.00",
+        "BatteryCapacity": "3040",
+        "RemovableBattery": "No",
+        "Colours": ["Black Moon", "Stellar Grey", "Pure White", "Ocean Depths"],
+        "image": "https://drop.ndtv.com/TECH/product_database/images/530201750842PM_635_essential_phone.jpeg?downsize=*:180"
+      }
+    },
+    {
+      "name": "Samsung Galaxy F23 5G ",
+      "price": "15,999",
+      "poster":"https://i.gadgets360cdn.com/products/large/samsung-galaxy-f23-5g-371x800-1646723624.jpg?downsize=*:180",
+      "id": 1,
+      "specifications": {
+        "Brand": "Samsung",
+        "Model": "Phone",
+        "ReleaseDate": "8th March 2022",
+        "FormFactor": "Touchscreen",
+        "Dimensions": "165.50 x 77.00 x 8.40",
+        "Weight": "198.00",
+        "BatteryCapacity": "5000",
+        "RemovableBattery": "No",
+        "Colours": ["Aqua Blue", "Forest Green"],
+        "image": "https://i.gadgets360cdn.com/products/large/samsung-galaxy-f23-5g-371x800-1646723624.jpg?downsize=*:180"
+      }
+    },
+    {
+      "name": "Redmi 10 Prime",
+      "price": "12,999",
+      "poster":"https://i.gadgets360cdn.com/products/large/redmi-10-prime-675x800-1630654649.jpg?downsize=*:180",
+      "id": 2,
+      "specifications": {
+        "Brand": "Xiaomi",
+        "Model": "Phone",
+        "ReleaseDate": "3rd September 2021",
+        "FormFactor": "Touchscreen",
+        "Dimensions": "161.95 x 75.57 x 9.56",
+        "Weight": "192.00",
+        "BatteryCapacity": "6000",
+        "RemovableBattery": "No",
+        "Colours": ["Astral White", "Biforest White", "Phantom Black"],
+        "image": "https://i.gadgets360cdn.com/products/large/redmi-10-prime-675x800-1630654649.jpg?downsize=*:180"
+      }
+    },
+    {
+      "name": "Realme C35",
+      "price": "13,999",
+      "poster":"https://i.gadgets360cdn.com/products/large/realme-c35-db-373x800-1644501667.jpg?downsize=*:180",
+      "id": 3,
+      "specifications": {
+        "Brand": "Realme",
+        "Model": "Phone",
+        "ReleaseDate": "10th February 2022",
+        "FormFactor": "Touchscreen",
+        "Dimensions": "164.40 x 75.60 x 8.10",
+        "Weight": "189.00",
+        "BatteryCapacity": "5000",
+        "RemovableBattery": "No",
+        "Colours": ["Glowing Black", "Glowing Green"],
+        "image": "https://i.gadgets360cdn.com/products/large/realme-c35-db-373x800-1644501667.jpg?downsize=*:180"
+      }
+    }
+  ]
+}
